@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="product_carousel" name="Products">
+        <t t-call="website.layout">
+            <div class="blogCarousel">
+
+            </div>
+        </t>
+    </template>
+</odoo>

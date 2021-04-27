@@ -1,0 +1,8 @@
+<odoo>
+    <template id="assets_frontend_product_corousel" inherit_id="website.assets_frontend">
+        <xpath expr="script[last()]" position="after">
+            <script type="text/javascript" src="/website_14/static/src/js/home.js"></script>
+            <link rel="stylesheet" type="text/scss" href="/website_14/static/src/scss/product_corousel.scss"/>
+        </xpath>
+    </template>
+</odoo>
