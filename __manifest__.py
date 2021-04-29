@@ -9,6 +9,7 @@
     'description': "",
     'depends': [
         'web',
+        'website_sale',
         'portal',
     ],
     'installable': True,
